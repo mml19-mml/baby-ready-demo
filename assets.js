@@ -1,0 +1,1 @@
+window.BABY_ASSETS = {"baby": "assets/baby.jpg", "night": "assets/night.jpg", "hunger": "assets/hunger.jpg", "bath": "assets/bath.jpg", "play": "assets/play.jpg"};
